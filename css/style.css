@@ -1,0 +1,22 @@
+
+body{
+
+background-color: #cccccc;
+}
+h1 { color:black;
+}
+h3{
+font-family: Impact, Charcoal, sans-serif;
+font-style: oblique;
+
+  color:@000000; }
+hr{
+background-color:white;
+border-style:none;
+border-top-style: dotted;
+border-color: grey;
+border-width: 5px;
+width:50%
+width:30%;
+
+}
